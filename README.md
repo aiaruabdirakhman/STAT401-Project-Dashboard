@@ -6,6 +6,7 @@ This project was developed by Aiaru Abdirakhman, Hadiya Khan, and Nuray Taghiyev
 
 An interactive dashboard presents the findings, highlighting key trends in earthquake-related legislation, housing and reconstruction policies, and parliamentary oversight patterns.
 
-## Contributors
+## Project Team
+- [@aiaruabdirakhman](https://github.com/aiaruabdirakhman)
 - [@HadiyaKhan](https://github.com/HadiyaKhan)
 - [@tagives](https://github.com/tagives)
