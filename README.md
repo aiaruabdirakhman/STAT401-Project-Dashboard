@@ -8,4 +8,4 @@ An interactive dashboard presents the findings, highlighting key trends in earth
 
 ## Contributors
 - [@HadiyaKhan](https://github.com/HadiyaKhan)
-- 
+- [@tagives](https://github.com/tagives)
